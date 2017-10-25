@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProjectImport
+  AutoSync="true"
+  LastImport="2017-10-24T11:19:50.1223520-07:00"
+  ParentMadCapCentralId="4488">
+  <Files>
+    <Url
+      Source="file:///C:/Users/sgarcia/Desktop/TFS Global Linking/TFS_Globallinking 2/TFS_Globallinking 2.flprj"
+      AbsoluteSource="file:///C:/Users/sgarcia/Desktop/TFS Global Linking/TFS_Globallinking 2/TFS_Globallinking 2.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../TFS_Globallinking 2/Content/Topic.htm"
+      AbsoluteSource="file:///C:/Users/sgarcia/Desktop/TFS Global Linking/TFS_Globallinking 2/Content/Topic.htm" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Topic.htm"
+      TimeStamp="10/24/2017 11:06:15 AM" />
+  </GeneratedFiles>
+</CatapultProjectImport>
